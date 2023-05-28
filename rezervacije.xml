@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<rezervacije>
+ <rezervacija>
+  <firstName>Lovro Visic</firstName>
+  <brojOsoba>1</brojOsoba>
+  <datum>2023-05-27</datum>
+  <vrijeme>21:30:00</vrijeme>
+  <phone>0981988286</phone>
+  <email>visiclovro@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Ivica Visic</firstName>
+  <brojOsoba>4</brojOsoba>
+  <datum>2023-06-01</datum>
+  <vrijeme>15:10:00</vrijeme>
+  <phone>0915721324</phone>
+  <email>ivica.visic@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Simun Janjic</firstName>
+  <brojOsoba>2</brojOsoba>
+  <datum>2023-05-30</datum>
+  <vrijeme>10:15:00</vrijeme>
+  <phone>0974312564</phone>
+  <email>janjicsimun@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Adam Lončar</firstName>
+  <brojOsoba>5</brojOsoba>
+  <datum>2023-06-28</datum>
+  <vrijeme>15:19:00</vrijeme>
+  <phone>0956308756</phone>
+  <email>loncaradam@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Pero Perić</firstName>
+  <brojOsoba>10</brojOsoba>
+  <datum>2023-05-29</datum>
+  <vrijeme>12:00:00</vrijeme>
+  <phone>0921989296</phone>
+  <email>pericpero01@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Franko Zrilić</firstName>
+  <brojOsoba>2</brojOsoba>
+  <datum>2023-06-03</datum>
+  <vrijeme>22:45:00</vrijeme>
+  <phone>0915634527</phone>
+  <email>franko.zrilic@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Mateo Dabo</firstName>
+  <brojOsoba>6</brojOsoba>
+  <datum>2023-05-27</datum>
+  <vrijeme>21:20:00</vrijeme>
+  <phone>0956784351</phone>
+  <email>mateo.dabo@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Matko Horvat</firstName>
+  <brojOsoba>4</brojOsoba>
+  <datum>2023-05-20</datum>
+  <vrijeme>10:30:00</vrijeme>
+  <phone>0981435784</phone>
+  <email>horvatmatko@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Duje Simicev</firstName>
+  <brojOsoba>2</brojOsoba>
+  <datum>2023-06-09</datum>
+  <vrijeme>20:00:00</vrijeme>
+  <phone>0915678453</phone>
+  <email>duje.simicev02@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Mateo Bakotić</firstName>
+  <brojOsoba>15</brojOsoba>
+  <datum>2023-06-16</datum>
+  <vrijeme>21:30:00</vrijeme>
+  <phone>0987431243</phone>
+  <email>bakoticmateo@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Mario Nikolić</firstName>
+  <brojOsoba>3</brojOsoba>
+  <datum>2023-06-04</datum>
+  <vrijeme>00:00:00</vrijeme>
+  <phone>0981543896</phone>
+  <email>mario.nikolic13@gmail.com</email>
+ </rezervacija>
+ <rezervacija>
+  <firstName></firstName>
+  <brojOsoba>0</brojOsoba>
+  <datum>0000-00-00</datum>
+  <vrijeme>00:00:00</vrijeme>
+  <phone></phone>
+  <email></email>
+ </rezervacija>
+ <rezervacija>
+  <firstName>Dominik</firstName>
+  <brojOsoba>3</brojOsoba>
+  <datum>2023-06-09</datum>
+  <vrijeme>19:00:00</vrijeme>
+  <phone>0974321546</phone>
+  <email>dominik.simunov22@gmail.com</email>
+ </rezervacija>
+</rezervacije>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservations>
+<reservation>
+<id>6</id>
+<firstName>Lovro Visic</firstName>
+<brojOsoba>1</brojOsoba>
+<datum>2023-05-17 13:00:00</datum>
+<phone>0981988286</phone>
+<email>visiclovro@gmail.com</email>
+</reservation>
+<reservation>
+<id>7</id>
+<firstName>Ivica Visic</firstName>
+<brojOsoba>4</brojOsoba>
+<datum>2023-05-17 15:00:00</datum>
+<phone>0915721324</phone>
+<email>ivica.visic@gmail.com</email>
+</reservation>
+<reservation>
+<id>8</id>
+<firstName>Simun Janjic</firstName>
+<brojOsoba>2</brojOsoba>
+<datum>2023-05-17 16:00:00</datum>
+<phone>0974312564</phone>
+<email>janjicsimun@gmail.com</email>
+</reservation>
+<reservation>
+<id>9</id>
+<firstName>Adam Lončar</firstName>
+<brojOsoba>5</brojOsoba>
+<datum>2023-05-17 18:00:00</datum>
+<phone>0956308756</phone>
+<email>loncaradam@gmail.com</email>
+</reservation>
+<reservation>
+<id>10</id>
+<firstName>Pero Perić</firstName>
+<brojOsoba>10</brojOsoba>
+<datum>2023-05-17 19:00:00</datum>
+<phone>0921989296</phone>
+<email>pericpero01@gmail.com</email>
+</reservation>
+<reservation>
+<id>11</id>
+<firstName>Franko Zrilić</firstName>
+<brojOsoba>2</brojOsoba>
+<datum>2023-05-17 22:00:00</datum>
+<phone>0915634527</phone>
+<email>franko.zrilic@gmail.com</email>
+</reservation>
+<reservation>
+<id>12</id>
+<firstName>Mateo Dabo</firstName>
+<brojOsoba>6</brojOsoba>
+<datum>2023-05-17 21:00:00</datum>
+<phone>0956784351</phone>
+<email>mateo.dabo@gmail.com</email>
+</reservation>
+<reservation>
+<id>13</id>
+<firstName>Matko Horvat</firstName>
+<brojOsoba>4</brojOsoba>
+<datum>2023-05-18 14:00:00</datum>
+<phone>0981435784</phone>
+<email>horvatmatko@gmail.com</email>
+</reservation>
+<reservation>
+<id>14</id>
+<firstName>Duje Simicev</firstName>
+<brojOsoba>2</brojOsoba>
+<datum>2023-05-18 20:00:00</datum>
+<phone>0915678453</phone>
+<email>duje.simicev02@gmail.com</email>
+</reservation>
+<reservation>
+<id>15</id>
+<firstName>Mateo Bakotić</firstName>
+<brojOsoba>15</brojOsoba>
+<datum>2023-05-18 21:00:00</datum>
+<phone>0987431243</phone>
+<email>bakoticmateo@gmail.com</email>
+</reservation>
+<reservation>
+<id>16</id>
+<firstName>Mario Nikolić</firstName>
+<brojOsoba>3</brojOsoba>
+<datum>2023-05-18 16:00:00</datum>
+<phone>0981543896</phone>
+<email>mario.nikolic13@gmail.com</email>
+</reservation>
+<reservation>
+<id>19</id>
+<firstName>Mario Matković</firstName>
+<brojOsoba>4</brojOsoba>
+<datum>2023-05-18 18:00:00</datum>
+<phone>0987564093</phone>
+<email>mariom@gmail.com</email>
+</reservation>
+<reservation>
+<id>18</id>
+<firstName>Dominik Šimunov</firstName>
+<brojOsoba>3</brojOsoba>
+<datum>2023-05-18 12:00:00</datum>
+<phone>0974321546</phone>
+<email>dominik.simunov22@gmail.com</email>
+</reservation>
+<reservation>
+<id>20</id>
+<firstName>Petar Miočev</firstName>
+<brojOsoba>2</brojOsoba>
+<datum>2023-05-19 20:00:00</datum>
+<phone>0916785643</phone>
+<email>pmiocev@gmail.com</email>
+</reservation>
+<reservation>
+<id>21</id>
+<firstName>Petar Petkovic</firstName>
+<brojOsoba>3</brojOsoba>
+<datum>2023-05-19 21:00:00</datum>
+<phone>0986743245</phone>
+<email>petkovicP@gmail.com</email>
+</reservation>
+<reservation>
+<id>22</id>
+<firstName>Ivan Medanic</firstName>
+<brojOsoba>8</brojOsoba>
+<datum>2023-05-19 22:00:00</datum>
+<phone>0956435797</phone>
+<email>medanicIvan@gmail.com</email>
+</reservation>
+<reservation>
+<id>23</id>
+<firstName>Laura Kapetanović</firstName>
+<brojOsoba>2</brojOsoba>
+<datum>2023-05-19 18:00:00</datum>
+<phone>0985421457</phone>
+<email>lauraK@gmail.com</email>
+</reservation>
+<reservation>
+<id>26</id>
+<firstName>Josip Josipović</firstName>
+<brojOsoba>12</brojOsoba>
+<datum>2023-05-19 17:00:00</datum>
+<phone>0987543214</phone>
+<email>josipJos@gmail.com</email>
+</reservation>
+<reservation>
+<id>30</id>
+<firstName>Tester</firstName>
+<brojOsoba>12</brojOsoba>
+<datum>2023-05-17 14:00:00</datum>
+<phone>0986742156</phone>
+<email>janjicsimun@gmail.com</email>
+</reservation>
+</reservations>

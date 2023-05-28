@@ -1,0 +1,151 @@
+.maintxt {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+	font-size: 4vw;
+	background-image: url('slike/slikapocetna.jpg');
+	background-size: cover;
+	height: 100vh;
+  }
+
+  body {
+	font-size: 16px;
+	line-height: 1.5;
+	
+  }
+
+/* For screens smaller than 576px */
+
+  
+  
+ 
+  @media (max-width: 576px) {
+	
+	.maintxt {
+		background-image: url('slike/slikapocetna.jpg');
+		background-size: cover;
+		height: 50vh;
+	}
+	.buton a.btn {
+	  display: inline-block;
+	  width: 45%;
+	  margin: 10px;
+	}
+	.form-group {
+		max-width: 500px;
+		margin: 5 auto;
+	  }
+	  
+   .form-group1 {
+	max-width: 300px;
+	margin: 10 auto;
+  }
+  .work-hours {
+    font-size: 16px;
+  }
+  
+  .box {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+	.buton a.btn:first-child {
+	  margin-right: 10%;
+	}
+  
+	.buton a.btn:last-child {
+	  margin-left: 10%;
+	}
+	.carousel-container {
+		max-width: 100%;
+		padding: 0 10px;
+	  }
+	  .carousel-inner img {
+		max-width: 100%;
+		height: auto;
+	  }
+
+	  
+  }
+  
+
+
+
+  .carousel-inner .carousel-item img {
+	height: 400px; /* change this to match the height of your carousel images */
+	
+  }
+  
+  .bordered-text {
+	height: 400px; /* match the height of the carousel images */
+	
+	border: 2px solid black; /* adjust the border style and width as needed */
+
+
+
+	
+  }
+  .bordered-text2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 70px;
+  }
+
+  
+.box {
+	border: 2px solid #ccc;
+	padding: 20px;
+	background-color: #f8f9fa;
+  }	
+	
+
+  .work-hours {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+  }
+  .work-hours .day {
+	font-weight: bold;
+	width: 150px;
+  }
+  .work-hours .hours {
+	text-align: right;
+	width: 150px;
+  }
+
+
+  .bordered-text {
+  background-color: #F5F5F5;
+  margin: 50px;
+  text-align: center;
+  padding: 20px;
+  }
+  .custom-padding {
+	padding: 100px;
+  }
+
+.dropdown-container {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 999;
+  
+}
+
+button {
+	margin-bottom: 20px; /* Add 10px margin to the bottom of each button */
+  }
+
+.no-bullets {
+	list-style-type: none;
+	text-align: center;
+  }
+  
